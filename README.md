@@ -32,6 +32,14 @@ We invite developers, contributors, and enthusiasts to join us on this journey. 
 
 ## Getting Started 👩‍💻
 
+To get started with the project, follow these steps:
+
+1. Clone the repository: `git clone <repository-url>`
+2. Navigate to the project directory: `cd embeddable-multi-language-spam-filter`
+3. Install dependencies: `npm install`
+4. Set up environment variables: Create a `.env` file in the root directory and add necessary environment variables (refer to `.env.example` for guidance)
+5. Start the development server: `npm start`
+
 Refer to our documentation for detailed instructions on getting started with our project. Whether you're a developer, researcher, or enthusiast, your involvement is crucial in shaping the future of spam detection technology.
 
 Thank you for being part of our mission to build a secure and enjoyable online space!
