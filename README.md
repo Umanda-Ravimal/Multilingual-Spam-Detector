@@ -34,7 +34,7 @@ We invite developers, contributors, and enthusiasts to join us on this journey. 
 
 To get started with the project, follow these steps:
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone https://github.com/Umanda-Ravimal/Multilingual-Spam-Detector.git`
 2. Navigate to the project directory: `cd embeddable-multi-language-spam-filter`
 3. Install dependencies: `npm install`
 4. Set up environment variables: Create a `.env` file in the root directory and add necessary environment variables (refer to `.env.example` for guidance)
